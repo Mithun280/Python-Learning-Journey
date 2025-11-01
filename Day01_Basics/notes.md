@@ -1,23 +1,24 @@
-### Day 01 – Introduction to Python 🐍
+# Day 01 – Introduction to Python 🐍 
 
-# What is Python? 🔹 
-Python is a high-level, interpreted programming language.
-It’s simple, readable, and great for beginners.
+## What is Python?
 
-You can use Python for:
+# Python is a high-level, interpreted programming language.
+  It’s simple, readable, and great for beginners.
 
--  Web development (Flask, Django)
+# You can use Python for:
 
--  Data science and machine learning (Pandas, TensorFlow)
+- Web development (Flask, Django)
 
--  Automation and scripts
+- Data science and machine learning (Pandas, TensorFlow)
 
--  App development
+- Automation and scripts
 
-## High-level: easy to understand, close to human language.
-## Interpreted: runs code line by line — no need to compile.
+- App development
 
- # Why is Python popular? 🔹
+### High-level: easy to understand, close to human language.
+### Interpreted: runs code line by line — no need to compile.
+
+# Why is Python popular?
 
 🧠 Easy to learn and understand
 
@@ -34,21 +35,37 @@ It provides auto-suggestions, syntax highlighting, and a run button.
 
 Examples:
 
--  VS Code – lightweight and simple
+- VS Code – lightweight and simple
 
--  PyCharm – best for big projects
+- PyCharm – best for big projects
 
--  Jupyter Lab – great for data science and learning
+- Jupyter Lab – great for data science and learning
 
 💡 I use Jupyter Lab because I can write code, see results, and take notes in one place.
 
-  ```python
-  print("Hello, World!")
-  ```
+## How Python Runs Code
 
-  
+Python is an interpreted language, which means it executes code line by line.
 
- ## Key Features of Python 🔹
+✅ Advantages:
+
+- Easier to find and fix errors
+
+- You can test small parts of code quickly
+
+- Faster for beginners to learn and practice
+
+## Disadvantage:
+
+- Runs slower than compiled languages because each line is checked and executed one by one
+
+## Compiler (short note):
+- A compiler translates the entire program into machine code before running it, which makes execution faster — languages like C and Java use compilers.
+
+```python
+print("Hello, World!")
+```
+## Key Features of Python
 
 - Simple and clean syntax
 
