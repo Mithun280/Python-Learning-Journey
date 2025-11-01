@@ -1,6 +1,6 @@
 ### Day 01 – Introduction to Python 🐍
 
-🔹 # What is Python?
+# What is Python? 🔹 
 Python is a high-level, interpreted programming language.
 It’s simple, readable, and great for beginners.
 
