@@ -17,7 +17,7 @@ You can use Python for:
 ## High-level: easy to understand, close to human language.
 ## Interpreted: runs code line by line — no need to compile.
 
- #Why is Python popular? 🔹
+ # Why is Python popular? 🔹
 
 🧠 Easy to learn and understand
 
