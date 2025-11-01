@@ -42,7 +42,8 @@ Examples:
 
 💡 I use Jupyter Lab because I can write code, see results, and take notes in one place.
 
-  ```print("Hello, World!")
+  ```
+  print("Hello, World!")
   ```
   
 
