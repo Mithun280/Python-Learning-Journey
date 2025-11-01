@@ -41,7 +41,7 @@ Examples:
 -  Jupyter Lab – great for data science and learning
 
 💡 I use Jupyter Lab because I can write code, see results, and take notes in one place.
-
+`python`
 ```
 print("Hello, World!")
 ```
