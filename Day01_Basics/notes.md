@@ -3,7 +3,7 @@
 ## What is Python?
 
 # Python is a high-level, interpreted programming language.
-  It’s simple, readable, and great for beginners.
+# It’s simple, readable, and great for beginners.
 
 # You can use Python for:
 
@@ -17,6 +17,11 @@
 
 ### High-level: easy to understand, close to human language.
 ### Interpreted: runs code line by line — no need to compile.
+
+# What does “Dynamically Typed” mean?🧠 
+
+In Python, you don’t need to declare the data type of a variable.
+Python automatically decides the type when you assign a value.
 
 # Why is Python popular?
 
