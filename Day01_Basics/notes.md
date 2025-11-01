@@ -1,4 +1,4 @@
-🐍 ### Day 01 – Introduction to Python
+### Day 01 – Introduction to Python 🐍
 
 🔹 # What is Python?
 Python is a high-level, interpreted programming language.
@@ -17,7 +17,7 @@ You can use Python for:
 ## High-level: easy to understand, close to human language.
 ## Interpreted: runs code line by line — no need to compile.
 
-🔹 #Why is Python popular?
+ #Why is Python popular? 🔹
 
 🧠 Easy to learn and understand
 
@@ -44,7 +44,7 @@ Examples:
 
   print("Hello, World!")
 
-🔹 ## Key Features of Python
+ ## Key Features of Python 🔹
 
 - Simple and clean syntax
 
