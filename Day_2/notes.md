@@ -68,14 +68,23 @@ print(z)         # 15.0
 
 Used to perform calculations.
 
-## Operator	Meaning	Example	Output
-+	Addition	5 + 3	8
--	Subtraction	10 - 4	6
-*	Multiplication	6 * 2	12
-/	Division	10 / 3	3.333
-//	Floor Division	10 // 3	3
-%	Modulus	10 % 3	1
-**	Power	2 ** 3	8
+4. Arithmetic Operators
+
+## Python supports several math operations:
+
+`+ for addition → 5 + 3 gives 8`
+
+`- for subtraction → 10 - 4 gives 6`
+
+`* for multiplication → 6 * 2 gives 12`
+
+`/ for division → 10 / 3 gives 3.333`
+
+`// for floor division → 10 // 3 gives 3`
+
+`% for modulus → 10 % 3 gives 1`
+
+`** for power → 2 ** 3 gives 8`
 
 Example:
 ```python
