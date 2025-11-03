@@ -42,7 +42,7 @@ print("Hello, " + name + "! You are " + str(age) + " years old.")
 print(f"Hello, {name}! You are {age} years old.")
 ```
 
-# 3. Comments in Python
+# 3. Comments in Python.
 
 Comments help you explain your code.
 Python ignores them when running your program.
