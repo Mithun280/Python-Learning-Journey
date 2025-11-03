@@ -33,11 +33,11 @@ print("Hello, " + name + "! You are " + str(age) + " years old.")
 ```
 
 
-# The + joins text together, but you must convert numbers to strings using str().
-# Here, + is used to join text together — this is called concatenation
+## The + joins text together, but you must convert numbers to strings using str().
+## Here, + is used to join text together — this is called concatenation
 
-# You can also use f-strings, which are cleaner and easier to read:
-# They automatically handle conversions — so you don’t need to convert numbers to strings manually.
+## You can also use f-strings, which are cleaner and easier to read:
+## They automatically handle conversions — so you don’t need to convert numbers to strings manually.
 ```python
 print(f"Hello, {name}! You are {age} years old.")
 ```
